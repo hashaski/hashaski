@@ -1,4 +1,4 @@
-:telescope: I’m studying Computer Science and looking to expand my knowledge.
+- :telescope: I’m studying Computer Science and looking to expand my knowledge.
 
 - :seedling: Interested in IA, Data Science and Cybersecurity.
 
