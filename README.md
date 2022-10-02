@@ -2,7 +2,7 @@
 
 - :seedling: Interested in IA, Data Science and Cybersecurity.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/andrematteucci/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrematteucci/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/andrematteucci-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrematteucci/)
 
 <div align="center">
   <a href="https://github.com/hashaski">
