@@ -1,6 +1,6 @@
 - :telescope: I’m studying Computer Science in Mackenzie Presbiterian University and looking to expand my knowledge.
 
-- :seedling: Interested in IA, Data Science and Cybersecurity.
+- :seedling: Interested in IA, Data Science, Web Development and Cybersecurity.
 
 - :mailbox:How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/andrematteucci-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrematteucci/)
 
